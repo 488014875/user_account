@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/user/carttype/carttype.iml" filepath="$PROJECT_DIR$/user/carttype/carttype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user_account.iml" filepath="$PROJECT_DIR$/user_account.iml" />
+    </modules>
+  </component>
+</project>
