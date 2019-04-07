@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/user/carttype/carttype.iml" filepath="$PROJECT_DIR$/user/carttype/carttype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user/user.iml" filepath="$PROJECT_DIR$/user/user.iml" />
       <module fileurl="file://$PROJECT_DIR$/user_account.iml" filepath="$PROJECT_DIR$/user_account.iml" />
     </modules>
   </component>
